@@ -14,7 +14,7 @@
 - [x] Useful, but not enough
 - [ ] Covers all the possibilities
 - [ ] Useful, not used properly
-- [ ] Totally useless
+- [ ] None of the above
 
 ## Distribution, amplification, spoofing and reflection are fundamental notions of what?
 - [ ] Confidentiality threats
